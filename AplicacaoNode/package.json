@@ -1,0 +1,28 @@
+{
+    "name": "aplicacaonode",
+    "version": "1.0.0",
+    "description": "Aplicativo da aula",
+    "main": "app.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ramonbhb/AplicacaoNodeCI.git"
+    },
+    "keywords": [
+      "Aplicacao",
+      "aula",
+      "teste"
+    ],
+    "author": "Ramon",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ramonbhb/AplicacaoNodeCI/issues"
+    },
+    "homepage": "https://github.com/ramonbhb/AplicacaoNodeCI#readme",
+    "dependencies": {
+      "jest": "^27.2.0"
+    }
+  }
+  
